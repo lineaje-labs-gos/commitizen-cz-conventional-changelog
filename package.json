@@ -1,6 +1,6 @@
 {
   "name": "cz-conventional-changelog",
-  "version": "0.0.0-semantically-released.0",
+  "version": "3.3.0-lineaje-01",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "homepage": "https://github.com/commitizen/cz-conventional-changelog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/cz-conventional-changelog.git"
+    "url": "https://github.com/lineaje-labs-gos/commitizen-cz-conventional-changelog"
   },
   "engineStrict": true,
   "engines": {
@@ -20,6 +20,12 @@
   },
   "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "chalk": "^2.4.1",
     "commitizen": "^4.0.3",
